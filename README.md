@@ -4,7 +4,7 @@
 --------------------------------------------
 [Lending Club](https://www.lendingclub.com/info/download-data.action) releases data for all of the approved and declined loan applications periodically on their website. We have dataset for years from 2007 to 2011. **Data dictionary** can be found on this [google drive](https://docs.google.com/spreadsheets/d/191B2yJ4H1ZPXq0_ByhUgWMFZOYem5jFz0Y3by_7YBY4/edit). The dataset is attached in this repository.
 
-PROBLEM STATEMENT : `Can we build a machine learning model that can accurately predict if a borrower will pay off their loan on time or not?`
+PROBLEM STATEMENT : Can we build a machine learning model that can accurately predict if a borrower will pay off their loan on time or not?
 --------------------------------------------------------------
 ## So Far...
 * We initially had dataset of shape (42538,52) and then we analysed and cleaned it to bring it to the shape (38770,23)
