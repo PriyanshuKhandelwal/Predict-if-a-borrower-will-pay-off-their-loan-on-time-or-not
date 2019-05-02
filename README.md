@@ -6,7 +6,7 @@
 
 **PROBLEM STATEMENT** : `Can we build a machine learning model that can accurately predict if a borrower will pay off their loan on time or not?`
 --------------------------------------------------------------
-# So Far...
+## So Far...
 * We initially had dataset of shape (42538,52) and then we analysed and cleaned it to bring it to the shape (38770,23)
 * We removed columns that may leak information or the columns that aren't useful for our modelling purpose
 * We decided our target column and decided to focus on modelling efforts based on Binary Classification
